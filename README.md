@@ -1,0 +1,1 @@
+Game model & editor resource of card-game
